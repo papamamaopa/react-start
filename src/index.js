@@ -13,6 +13,9 @@ import "jquery/dist/jquery.min.js";
 // popper.js
 import "popper.js/dist/popper.min.js";
 
+// toastify
+import "react-toastify/dist/ReactToastify.css";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

@@ -1,0 +1,33 @@
+$primary: #fff;
+$secondary: #000;
+
+$primary_text: #000;
+$secondary_text: #fff;
+
+.btn {
+  border-radius: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+
+  &:active {
+    border: none !important;
+    outline: none !important;
+  }
+
+  &:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.btn-primary {
+  background-color: $primary !important;
+  color: $primary_text !important;
+}
+
+.btn-secondary {
+  background-color: $secondary !important;
+  color: $secondary_text !important;
+}
