@@ -1,14 +1,14 @@
 # React-Start by Philb
 
-#### `react start`
+## `react start`
 
 start the development local server under 3000
 
-#### `react build`
+## `react build`
 
 build the project in the `build`directory
 
-##### node packages:
+### node packages:
 
 - [bootstrap](https://www.npmjs.com/package/bootstrap)
 - [jquery](https://www.npmjs.com/package/jquery)
